@@ -34,6 +34,3 @@ The model achieves high accuracy (~90%) and can predict unseen flower images cor
 - **Validation Accuracy:** ~90%  
 - **Confusion Matrix:** Minor misclassifications between similar flowers  
 - **Example Predictions:** Correctly predicts new images of flowers  
-
-![Example Prediction](images/prediction_example.png)  
-![Confusion Matrix](images/confusion_matrix.png)  
